@@ -44,4 +44,4 @@ Results:
          1920x1200     59.88    59.95  
          1920x1080     60.01    59.97    59.96    59.93
 
-- Sound does not work as I anticipated with what I read before buying it - first problem to tackle
+- Sound does not work on speakers and headphone jack as I anticipated with what I read before buying it, works well on Bluetooth- first problem to tackle
