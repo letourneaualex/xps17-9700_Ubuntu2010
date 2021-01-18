@@ -2,13 +2,13 @@
 My journey into setting up my XPS 17 with Ubuntu 20.10
 
 
-Laptop specs:
+Laptop specs:  
 Dell XPS 17 (9700)  
-64Gb RAM\n
-i7 10875H\n
-1Tb SSD\n
-RTX 206\n
-4k\n
+64Gb RAM  
+i7 10875H  
+1Tb SSD  
+RTX 2060  
+4k screen  
 
 Install:
 Ubuntu 20.10 single-boot - I thought 20.10 was a better option due the the newer kernel looking at issues other people had
