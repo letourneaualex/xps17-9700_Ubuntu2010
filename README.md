@@ -11,7 +11,7 @@ RTX 2060
 4k screen  
 
 Install:
-Ubuntu 20.10 single-boot - I thought 20.10 was a better option due the the newer kernel looking at issues other people had
+Ubuntu 20.10 single-boot- kernel 5.8.0-38-generic - I thought 20.10 was a better option due the the newer kernel looking at issues other people had
 LVM with encryption
 
 Results:
@@ -46,3 +46,7 @@ Results:
          1920x1080     60.01    59.97    59.96    59.93
 
 - Sound does not work on speakers and headphone jack as I anticipated with what I read before buying it, works well on Bluetooth - Issue fixed using this process: https://km.kkrach.de/p_dell_xps_17_9700/ (however there's a typo in the commands, you're looking at sof-firmware-1.6-1 , not sof-firmware-1.6-2, also the wget command didn't work so I downloaded it straight from the website)
+
+
+
+Keywords: Dell XPS 17 9700 Linux Ubuntu 20.10 NVidia GPU RTX 2060 Sound sof-firmware
