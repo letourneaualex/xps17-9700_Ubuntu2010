@@ -3,7 +3,7 @@ My journey into setting up my XPS 17 with Ubuntu 20.10
 
 
 Laptop specs:
-Dell XPS 17 (9700)\n
+Dell XPS 17 (9700)  
 64Gb RAM\n
 i7 10875H\n
 1Tb SSD\n
