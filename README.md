@@ -44,4 +44,4 @@ Results:
          1920x1200     59.88    59.95  
          1920x1080     60.01    59.97    59.96    59.93
 
-- Sound does not work on speakers and headphone jack as I anticipated with what I read before buying it, works well on Bluetooth- first problem to tackle
+- Sound does not work on speakers and headphone jack as I anticipated with what I read before buying it, works well on Bluetooth - Issue fixed using this process: https://km.kkrach.de/p_dell_xps_17_9700/ (however there's a typo in the commands, you're looking at sof-firmware-1.6-1 , not sof-firmware-1.6-2, also the wget command didn't work so I downloaded it straight from the website)
